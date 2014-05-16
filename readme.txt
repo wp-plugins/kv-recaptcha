@@ -1,4 +1,4 @@
-=== Pricing Table ===
+=== KV reCaptcha ===
 Contributors: kvvaradha
 Donate link: http://kvcodes.com 
 Tags: recaptcha, google recaptcha, registration form,
