@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Kv reCaptcha
-Plugin URI: https://kv_recaptcha.com	
+Plugin URI: https://kvcodes.com	
 Description: A minimal file to add reCaptcha with your WordPress Registration form,
 Version: 1.0
-Author: Kv Varadha & PPK
-Author URI: http://www.kv_recaptcha.com
+Author: Kvvaradha
+Author URI: http://www.kvcodes.com
 */
 
 define('KV_RECAPTCHA_URL', plugin_dir_url( __FILE__ ));
