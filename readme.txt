@@ -10,7 +10,8 @@ WordPress KV reCaptcha plugin will help you to filter spam registrations and hel
 
 == Description ==
 
-WordPress KV reCaptcha plugin will help you to filter spam registrations and help you to prevent brute force attack
+WordPress KV reCaptcha plugin will help you to filter spam registrations and help you to prevent brute force attack. 
+If you want to rework with the code, fine take a look at here before start usging this code, It will be helpful to work with your own project.<a href="http://kvcodes.com/2014/05/integrate-recaptcha-wordpress-registration-page/" target="blank" > Kvcodes.com </a> 
 
 
 = Features =
