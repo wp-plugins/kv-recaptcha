@@ -1,7 +1,7 @@
 === KV reCaptcha ===
 Contributors: kvvaradha
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=kvvaradha@gmail.com&item_name=KV reCaptcha
-Tags: recaptcha, google recaptcha, registration form,
+Tags: recaptcha, google recaptcha, registration form, kvcodes
 Requires at least: 3.1
 Tested up to: 3.9.1
 License: GPL 
