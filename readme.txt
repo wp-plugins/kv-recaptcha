@@ -3,7 +3,7 @@ Contributors: kvvaradha
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=kvvaradha@gmail.com&item_name=KV reCaptcha
 Tags: recaptcha, google recaptcha, registration form, kvcodes
 Requires at least: 3.1
-Tested up to: 3.9.1
+Tested up to: 4.1
 License: GPL 
 
 WordPress KV reCaptcha plugin will help you to filter spam registrations and help you to prevent brute force attack

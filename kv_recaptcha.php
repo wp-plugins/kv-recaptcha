@@ -2,7 +2,7 @@
 /*
 Plugin Name: Kv reCaptcha
 Plugin URI: http://wordpress.org/plugins/kv-recaptcha	
-Description: A minimal file to add reCaptcha with your WordPress Registration form,
+Description: A minimal file to add reCaptcha with your WordPress Registration form, <a href="http://www.kvcodes.com" target="_blank" > Read more </a> 
 Version: 1.0
 Author: Kvvaradha
 Author URI: http://profiles.wordpress.org/kvvaradha
